@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ea9ef27e981f1d819beba9aabbaaef97998f385a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_b936602ea27ea6a9091c9053e830648f4bbbb999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_22b487f347d9684394a713ee8684ee1cf3326ce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3ca2e11479fc130f65deb89022ef4525efdf3cd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0103f83adf5d37a9d29f1aa525ed237be18f660e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_33d9b63ff378f042bdee0ed1c9d06dce41b445a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b3bf894f5b4aa1a5a605d53848b8aaeb10a0e40f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e79a63ef6f42feac7422754bb482605a6b84205">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f041a22965c909b43ec0bf9f6fff8c9ec65561ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4255967abec96509d63b43dbb29319c23e1b9ce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ae3980974cc983ca99d705d6ec0baf58412d3801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="451289727de52f24add7ce053a23d85afa17d549">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bf4b6f99aa26317fb09a3131b88ac761469f2d82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_574811086d0893758cbd94de3da6b3f2316f5a1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_faacdf7b216fa882ddc8ebb016df10b8ce76600f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_19d54d42657a5cf140f7def58f4af5f0fa526881\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eb8d1a335ecc5f996cc05855199421a297ca0a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e13bcb2f3cbfca2176996cb277ca4f6abcd63ebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\3717_darcy\Project\FaceApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\3717_darcy\Project\FaceApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_737d820417051f62e3c3d572fbe3dc093eb747bd\classes.dex" />
+    </item>
+
+</items>
